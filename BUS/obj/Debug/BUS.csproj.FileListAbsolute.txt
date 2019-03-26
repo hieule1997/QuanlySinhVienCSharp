@@ -1,0 +1,12 @@
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\bin\Debug\BUS.dll
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\bin\Debug\DAL.dll
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\bin\Debug\DTO.dll
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\bin\Debug\DTO.pdb
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\obj\Debug\BUS.dll
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Hieu Koi\Desktop\QuanLySinhVien\BUS\bin\Debug\DAL.dll.config
